@@ -1,0 +1,28 @@
+.input{
+  background-color: aliceblue;
+}
+.table {
+border-collapse: collapse;
+border-spacing: 0;
+/* border: 3px solid #cbcbcb; */
+empty-cells: show;
+margin: auto, auto;
+overflow: scroll;
+/* background-color: #e0e0e0; */
+/* color: #000; */
+width: 80%;
+
+}
+.table thead {
+vertical-align: bottom;
+}
+th {
+margin: auto;
+padding: 15px;
+text-align: center;
+border:1px solid #000;
+}
+td {
+text-align: center;
+border:1px solid #000;
+}
